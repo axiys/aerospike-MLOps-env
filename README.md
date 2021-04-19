@@ -2,6 +2,7 @@
 
 ## Installation Notes for Ubuntu 20.x
 
+```
 ssh-keygen -t ed25519 -C "xxxx@xxxxxxx.com"
 sudo apt-get install xclip
 xclip -selection clipboard < ~/.ssh//id_rsa.pub 
@@ -988,3 +989,4 @@ $ sudo systemctl start trino.service
 AS EE building
 
 sudo apt-get install libldap2-dev
+```
