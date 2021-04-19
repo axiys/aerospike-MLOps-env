@@ -1,5 +1,8 @@
 # aerospike-MLOps-env
 
+## Overview
+![alt text](https://github.com/axiys/aerospike-MLOps-env/blob/main/Overview.PNG "Overview")
+
 ## Installation Notes for Ubuntu 20.x
 
 ```
